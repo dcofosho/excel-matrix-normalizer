@@ -4,12 +4,12 @@
 <p>
 This code takes an Excel spreadsheet that looks like this:
 
-!["Example"](https://github.com/dcofosho/excel-matrix-normalizer/blob/master/example.png)
+!["Example"](https://github.com/dcofosho/excel-matrix-normalizer/blob/master/example.PNG)
 
 
 ...And turns it into a spreadsheet which looks like this:
 
-!["Example"](https://github.com/dcofosho/excel-matrix-normalizer/blob/master/output.png)
+!["Example"](https://github.com/dcofosho/excel-matrix-normalizer/blob/master/output.PNG)
 
 <ul>
 <br>
